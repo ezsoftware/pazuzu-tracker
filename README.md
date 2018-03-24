@@ -1,5 +1,5 @@
-# cactpot-calculator
-A simple javascript calculator for maximizing your profits from playing the Mini Cactpot lottery in FFXIV.
+# Pazuzu Window Tracker
+A simple javascript tracker for Pazuzu windows along with his wraith windows leading up to the spawn timer
 
 ## Instructions
-Go here: http://super-aardvark.github.io/cact.html
+Go here: http://ezsoftware.github.io/pazuzu-tracker/pazuzu.html
