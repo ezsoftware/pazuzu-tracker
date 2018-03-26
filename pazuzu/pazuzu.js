@@ -23,10 +23,10 @@ while (tries < 1000 && matches < 50) {
     gales.push(weatherData)
     matches++;
 
-    weatherStartTime += twentyFourHours; // Increment by 24 Eorzean Hours for next Paz window
-  } else {
+    //weatherStartTime += twentyFourHours; // Increment by 24 Eorzean Hours for next Paz window
+  } //else {
     weatherStartTime += eightHours; // Increment by 8 Eorzean hours
-  }
+  //}
   weatherStartHour = WeatherFinder.getEorzeaHour(weatherStartTime);
   weather = WeatherFinder.getWeather(weatherStartTime, zone);
   tries++;
