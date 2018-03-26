@@ -12,7 +12,7 @@ var gales = [];
 var tries = 0,
   matches = 0;
 
-while (tries < 1000 && matches < 50) {
+while (tries < 1000 && matches < 150) {
   if (weather == 'Gales') {
     var weatherDate = new Date(weatherStartTime);
     var weatherData = {
